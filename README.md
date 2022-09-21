@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanket Kale</h1>
 <h3 align="center">A passionate frontend developer, Java Developer</h3>
 
-- 🔭 I’m currently working on [E-commerce Website](https://ecomlaptop.herokuapp.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkale99&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkale99" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, React Js**
 
-- 💬 Ask me about **Git, Java-oops, js**
+- 💬 Ask me about **Git, Java-Oops, Js**
 
 - 📫 How to reach me **sanketkale990@gmail.com**
 
