@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkale99&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkale99" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React Js**
+- 🌱 I’m currently learning **Spring Boot, Angular Js**
 
-- 💬 Ask me about **Git, Java-Oops, Js**
+- 💬 Ask me about **Git, Java-Oops,JDBC,Servlet-JSP, Js**
 
 - 📫 How to reach me **sanketkale990@gmail.com**
 
