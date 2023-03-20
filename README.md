@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular Js**
 
-- 💬 Ask me about **Git, Java-Oops,JDBC,Servlet-JSP, Js**
+- 💬 Ask me about **Git, Java-Oops,JDBC,Servlet-JSP, Spring Boot, MySQL and MongDB**
 
 - 📫 How to reach me **sanketkale990@gmail.com**
 
