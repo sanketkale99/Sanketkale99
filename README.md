@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkale99" alt="sanketkale99" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React Js**
+- 🌱 I’m currently learning **Spring Boot, Python**
 
 - 💬 Ask me about **Git, Java-Oops, Angular, Spring-Boot**
 
 - 📫 How to reach me **sanketkale990@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/ipv0wl19ja](https://flowcv.com/resume/ipv0wl19ja)
+- 📄 Know about my experiences [Check My Resume](https://flowcv.com/resume/pjrsi6hcws)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
