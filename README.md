@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Kale</h1>
-<h3 align="center">A passionate frontend developer, Java Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkale99&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkale99" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanketkale990@gmail.com**
 
-- 📄 Know about my experiences [Check My Resume](https://flowcv.com/resume/pjrsi6hcws)
+- 📄 Know about my experiences **[Check My Resume](https://flowcv.com/resume/pjrsi6hcws)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
